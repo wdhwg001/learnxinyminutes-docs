@@ -4,8 +4,16 @@ filename: learncrystal.cr
 contributors:
     - ["Vitalii Elenhaupt", "http://veelenga.com"]
     - ["Arnaud Fernandés", "https://github.com/TechMagister/"]
-
+    - ["wdhwg001", "https://github.com/wdhwg001"]
 ---
+
+Crystal is a general-purpose, object-oriented compiled language with Ruby like syntax and type inference. It tries to keep almost the same developer happiness that Ruby gives you, and generates efficient native code.
+
+Crystal has gone a long way since five years ago, it has been production-ready for quite some time already. But still, it is labeled as alpha stage: the language feature and standard library may change in the future.
+
+Crystal now supports only POSIX systems, but Windows support is on its way. And the developers are aiming towards a 1.0 version by the end of the year.
+
+(The following code runs on Crystal 0.20.0, and shouldn't change much in the future.)
 
 ```crystal
 
